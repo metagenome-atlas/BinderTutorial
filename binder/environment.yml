@@ -4,9 +4,10 @@ channels:
   - defaults
 dependencies:
   - nbgitpuller
-  - r-base=4 # R dependencies
-  - bioconductor-ggtree=3.0
-  - bioconductor-microbiome=1.14
+# binder builds with r-irkernel=1.10.2021
+  - r-base=4.0 # R dependencies
+  - bioconductor-ggtree=2.4
+  - bioconductor-microbiome=1.12
   - r-useful=1.2
   - r-ape=5.5
   - r-broom=0.7
@@ -22,4 +23,4 @@ dependencies:
   - r-tidyr=1.1
   - r-vegan=2.5
   - r-kableextra=1.3
-  - bioconductor-aldex2=1.24
+  - bioconductor-aldex2=1.22
