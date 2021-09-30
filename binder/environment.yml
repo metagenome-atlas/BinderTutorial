@@ -5,22 +5,22 @@ channels:
 dependencies:
   - nbgitpuller
 # binder builds with r-irkernel=1.10.2021
-  - r-base=4.0 # R dependencies
-  - bioconductor-ggtree=2.4
-  - bioconductor-microbiome=1.12
-  - r-useful=1.2
-  - r-ape=5.5
-  - r-broom=0.7
-  - r-dplyr=1.0
-  - r-ggplot2=3.3
-  - r-pheatmap=1.0
-  - r-phytools=0.7
-  - r-plotly=4.9.4
-  - r-purrr=0.3
-  - r-readr=2.0
-  - r-stringr=1.4
-  - r-tibble=3.1
-  - r-tidyr=1.1
-  - r-vegan=2.5
-  - r-kableextra=1.3
-  - bioconductor-aldex2=1.22
+  - r-base # R dependencies
+  - bioconductor-ggtree
+  - bioconductor-microbiome
+  - r-useful
+  - r-ape
+  - r-broom
+  - r-dplyr
+  - r-ggplot2
+  - r-pheatmap
+  - r-phytools
+  - r-plotly
+  - r-purrr
+  - r-readr
+  - r-stringr
+  - r-tibble
+  - r-tidyr
+  - r-vegan
+  - r-kableextra
+  - bioconductor-aldex2
