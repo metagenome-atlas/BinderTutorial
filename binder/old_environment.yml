@@ -4,7 +4,7 @@ channels:
   - defaults
 dependencies:
   - nbgitpuller
-  - r-base # R dependencies
+  - r-base=4 # R dependencies
   - bioconductor-ggtree=2.2.1
   - bioconductor-microbiome=1.10.0
   - r-ape=5.4_1
@@ -22,3 +22,4 @@ dependencies:
   - r-tidyr=1.1.2
   - r-vegan=2.5_6
   - r-kableextra=1.2.1
+  - bioconductor-aldex2=1.20.0
