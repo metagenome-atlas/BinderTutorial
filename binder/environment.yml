@@ -8,6 +8,7 @@ dependencies:
   - bioconductor-ggtree=2.2.1
   - bioconductor-microbiome=1.10.0
   - r-ape=5.4_1
+  - r-useful
   - r-broom=0.7.0
   - r-dplyr=1.0.2
   - r-ggplot2=3.3.2
