@@ -6,7 +6,7 @@ dependencies:
   - nbgitpuller
   - r-base=4 # R dependencies
   - bioconductor-ggtree=3.2
-  - bioconductor-microbiome=1.10
+  - bioconductor-microbiome=1.10.0
   - r-ape=5.4_1
   - r-useful
   - r-broom=0.7
